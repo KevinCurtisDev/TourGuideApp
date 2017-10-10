@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.android.tourguideapp.MainActivity">
+
+        <TextView
+            android:id="@+id/history"
+            style="@style/CategoryStyle"
+            android:background="@color/category_history"
+            android:text="@string/category_history" />
+
+        <TextView
+            android:id="@+id/nightOut"
+            style="@style/CategoryStyle"
+            android:background="@color/category_nightOut"
+            android:text="@string/category_nightOut" />
+
+        <TextView
+            android:id="@+id/scenary"
+            style="@style/CategoryStyle"
+            android:background="@color/category_scenary"
+            android:text="@string/category_scenary" />
+
+        <TextView
+            android:id="@+id/familyFun"
+            style="@style/CategoryStyle"
+            android:background="@color/category_familyFun"
+            android:text="@string/category_familyFun" />
+
+    </LinearLayout>

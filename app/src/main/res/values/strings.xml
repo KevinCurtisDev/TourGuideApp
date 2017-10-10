@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="category_history">Historical PLaces</string>
+    <string name="category_nightOut">Night Out</string>
+    <string name="category_scenary">Pretty Places</string>
+    <string name="category_familyFun">Family Fun</string>
+    <string name="church_loc_desc">Jervis St, Dublin 1</string>
+    <string name="templebar_loc_desc">Temple bar - Dublin city center</string>
+    <string name="cinema_loc_desc">Parnell St, Dublin 1</string>
+    <string name="dinner_loc_desc">18 Parnell Square, Dublin 1</string>
+    <string name="gardens_loc_desc">Glasnevin, Dublin 9</string>
+    <string name="park_loc_desc">Phoenix Park, Dublin 8</string>
+    <string name="pier_loc_desc">Pier, Dún Laoghaire, Dublin</string>
+    <string name="stephens_loc_desc">St Stephen\'s Green, Dublin 2</string>
+    <string name="dublincastle_loc_desc">Dame Street, Dublin 2</string>
+    <string name="nationalgallery_loc_desc">Merrion Square W, Dublin 2</string>
+    <string name="trinitylibrary_loc_desc">Trinity college, Dublin 2</string>
+    <string name="aquatic_loc_desc">Snugborough, Dublin 15</string>
+    <string name="zoo_loc_desc">Phoenix Park, Dublin 8</string>
+    <string name="jump_loc_desc">Santry, dublin 17</string>
+    <string name="church_desc">description of the church</string>
+    <string name="templeBar_desc">Temple bar - Dublin\'s party central</string>
+    <string name="cinema_desc">Watch a movie on date night</string>
+    <string name="dinner_desc">Chapter One, for some fine dining.</string>
+    <string name="gardens_desc">Botanic Gardens for a smell of paradise</string>
+    <string name="park_desc">Visit europe\'s largest park - the pheonix park</string>
+    <string name="pier_desc">Take a walk on dunlaoghaire pier</string>
+    <string name="stephens_desc">Stephen\'s green in dublin\'s city center</string>
+    <string name="dublincastle_desc">Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle is a historically rich site to visit</string>
+    <string name="nationalgallery_desc">Explore amazing Art</string>
+    <string name="templebar_desc">Visit one of the oldest parts of Dublin City</string>
+    <string name="trinitylibrary_desc">Check out the book of Kells at Trinity college</string>
+    <string name="aquatic_desc">National Aquatic center, for a splash of fun</string>
+    <string name="zoo_desc">A trip to Dublin zoo. Meet the animals from around the world.</string>
+    <string name="jump_desc">Jump zone, play around on trampolines, and let your spirits fly</string>
+
+</resources>
